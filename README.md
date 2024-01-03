@@ -1,3 +1,24 @@
+<p align="center">
+    <a href="https://python.org" title="Go to Python homepage"><img src="https://img.shields.io/badge/Python-&gt;=3.x-blue?logo=python&amp;logoColor=white" alt="Made with Python"></a>
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/maintained-yes-2ea44f" alt="maintained - yes">
+    <a href="/CONTRIBUTING.md" title="Go to contributions doc"><img src="https://img.shields.io/badge/contributions-welcome-2ea44f" alt="contributions - welcome"></a>
+</p>
+
+<p align="center">
+    <a href="https://pypi.org/project/requests"><img src="https://img.shields.io/badge/dependency-requests-critical" alt="dependency - requests"></a>
+    <a href="https://pypi.org/project/python-dotenv"><img src="https://img.shields.io/badge/dependency-python--dotenv-critical" alt="dependency - python-dotenv"></a>
+</p>
+
+<p align="center">
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/dynamic/json?label=Google+Search+API+Wrapper&query=version&url=https%3A%2F%2Fraw.githubusercontent.com%2FRMNCLDYO%2FGoogle-Search-API-Wrapper%2Fmain%2F.github%2Fversion.json" alt="Version">
+</p>
+
 # Google Search API Wrapper
 
 ## Overview
