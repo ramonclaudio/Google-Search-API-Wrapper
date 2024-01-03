@@ -20,8 +20,6 @@
     <img src="https://img.shields.io/badge/dynamic/json?label=Google+Search+API+Wrapper&query=version&url=https%3A%2F%2Fraw.githubusercontent.com%2FRMNCLDYO%2FGoogle-Search-API-Wrapper%2Fmain%2F.github%2Fversion.json" alt="Version">
 </p>
 
-# Google Search API Wrapper
-
 ## Overview
 The Google Search API Wrapper is a versatile tool designed to facilitate seamless interaction with the Google Custom Search JSON API. This project enables users to effortlessly perform advanced web and image searches, harnessing the power of Google's robust search technology. The script is particularly useful for applications that require automated search functionalities, such as data mining, content aggregation, academic research, or any project that benefits from structured search results.
 
