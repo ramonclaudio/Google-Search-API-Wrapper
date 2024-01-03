@@ -11,7 +11,7 @@ The Google Search API Wrapper is a versatile tool designed to facilitate seamles
 
 ## Prerequisites
 - `Python 3.x`
-- An API Key for Google's Custom Search JSON API and a `CX` id for Google's Programmable Search Engine
+- An API Key for Google's Custom Search JSON API and a CX id for Google's Programmable Search Engine
 
 ## Installation
 To use this wrapper, clone the repository and install dependencies:
@@ -48,6 +48,16 @@ Before using the Google Custom Search API, you need to create a Programmable Sea
 3. Set your search settings, such as enabling image search and/or SafeSearch.
 4. Complete the reCAPTCHA verification and create your search engine.
 5. Once created, find your Search Engine ID (cx parameter) in the Overview page's Basic section.
+
+## Configuration
+1. Once you've obtained your API key and CX id, add them to your .env file.
+2. Create a new file named `.env` in the root directory, or rename the `example.env` file in the root directory of the project to `.env`.
+3. Add your API key and CX id to the `.env` file as follows:
+   ```
+   api_key=your_api_key_here
+   cx=your_cx_id_here
+   ```
+4. The application will automatically load and use the API key and CX id when making API requests.
 
 ## Usage
 
