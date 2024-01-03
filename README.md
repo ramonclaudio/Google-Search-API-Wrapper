@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-    <img width="450" src="https://raw.githubusercontent.com/RMNCLDYO/Google-Search-API-Wrapper/main/.github/logo.png">
+    <img width="600" src="https://raw.githubusercontent.com/RMNCLDYO/Google-Search-API-Wrapper/main/.github/logo.png">
 </p>
 
 <p align="center">
