@@ -30,8 +30,8 @@ The Google Search API Wrapper is an open-source Python library designed to facil
 - Error handling for missing credentials or invalid queries.
 
 ## Prerequisites
-- `Python 3.x`
-- An API Key for Google's Custom Search JSON API and a CX id for Google's Programmable Search Engine
+- Python 3.x
+- An API Key for Google's Custom Search JSON API
 
 ## Installation
 To use this wrapper, clone the repository and install dependencies:
