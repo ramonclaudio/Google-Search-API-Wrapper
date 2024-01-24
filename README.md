@@ -21,7 +21,7 @@
 </p>
 
 ## Overview
-The Google Search API Wrapper is an open-source Python library designed to facilitate seamless interaction with the Google Custom Search JSON API. This project enables users to effortlessly perform advanced web and image searches, harnessing the power of Google's robust search technology. The script is particularly useful for applications that require automated search functionalities, such as data mining, content aggregation, academic research, or any project that benefits from structured search results.
+A simple python wrapper for Google's Search API, enabling programatic web and image searches.
 
 ## Key Features
 - Web and image search functionality using Google Custom Search JSON API.
