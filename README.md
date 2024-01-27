@@ -31,7 +31,6 @@ A simple python wrapper for Google's Search API, enabling programatic web and im
 
 ## Prerequisites
 - Python 3.x
-- An API Key for Google's Custom Search JSON API
 
 ## Installation
 To use this wrapper, clone the repository and install dependencies:
@@ -46,15 +45,11 @@ The following Python packages are required:
 - `requests`
 - `python-dotenv`
 
-## Setup
-Set your Google Custom Search JSON API credentials (API key and CX) as environment variables `api_key` and `cx`.
-
 ### Obtaining Google Custom Search API Credentials
 
 #### Obtaining an API Key
-1. Visit the [Google Developers Introduction page](https://developers.google.com/custom-search/v1/introduction) for the Custom Search JSON API.
-2. Scroll down to the middle of the page and click on 'Get a Key' to obtain your API key.
-3. Use this key in your application by appending the query parameter `api_key=yourAPIKey` to all request URLs.
+1. Visit the [Programmable Search Engine](https://developers.google.com/custom-search/v1/introduction) introduction page.
+2. Scroll down to the middle of the page and click on `Get a Key` to generate your API key.
 
 #### What is a Programmable Search Engine?
 A Programmable Search Engine allows you to search google via the API, using Google's core search technology. You can customize it extensively, including the look and feel, search features, and even link it with Google Analytics for user behavior insights.
@@ -62,7 +57,7 @@ A Programmable Search Engine allows you to search google via the API, using Goog
 #### Creating a Programmable Search Engine
 Before using the Google Custom Search API, you need to create a Programmable Search Engine. Follow these steps:
 
-1. Visit the [Control Panel](https://programmablesearchengine.google.com/controlpanel/all).
+1. Visit the Programmable Search Engine [Control Panel](https://programmablesearchengine.google.com/controlpanel/all).
 2. Name your search engine and specify what to search:
    - Choose specific sites or the entire web.
 3. Set your search settings, such as enabling image search and/or SafeSearch.
