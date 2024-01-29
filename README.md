@@ -32,6 +32,11 @@ A simple python wrapper for Google's Search API, enabling programatic web and im
 ## Prerequisites
 - Python 3.x
 
+## Dependencies
+The following Python packages are required:
+- `requests`: For making HTTP requests to the Google API.
+- `python-dotenv`: For loading environment variables from an `.env` file.
+
 ## Installation
 To use this wrapper, clone the repository and install dependencies:
 ```bash
@@ -39,11 +44,6 @@ git clone https://github.com/RMNCLDYO/Google-Search-API-Wrapper.git
 cd Google-Search-API-Wrapper
 pip install -r requirements.txt
 ```
-
-## Dependencies
-The following Python packages are required:
-- `requests`
-- `python-dotenv`
 
 ### Obtaining Google Custom Search API Credentials
 
