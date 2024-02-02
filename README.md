@@ -30,7 +30,7 @@ A simple python wrapper for Google's Search API, enabling programatic web and im
 - Error handling for missing credentials or invalid queries.
 
 ## Prerequisites
-- Python 3.x
+- `Python 3.x`
 
 ## Dependencies
 The following Python packages are required:
