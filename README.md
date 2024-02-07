@@ -49,7 +49,7 @@ pip install -r requirements.txt
 
 #### Obtaining an API Key
 1. Visit the [Programmable Search Engine](https://developers.google.com/custom-search/v1/introduction) introduction page.
-2. Scroll down to the middle of the page and click on `Get a Key` to generate your API key.
+2. Scroll down to the middle of the page and click on 'Get a Key' to generate your API key.
 
 #### What is a Programmable Search Engine?
 A Programmable Search Engine allows you to search google via the API, using Google's core search technology. You can customize it extensively, including the look and feel, search features, and even link it with Google Analytics for user behavior insights.
