@@ -65,7 +65,7 @@ Before using the Google Custom Search API, you need to create a Programmable Sea
 5. Once created, find your Search Engine ID (cx parameter) in the Overview page's Basic section.
 
 ## Configuration
-1. Once you've obtained your API key and CX id, add them to your .env file.
+1. Once you've obtained your API key and CX id, add them to your `.env` file.
 2. Create a new file named `.env` in the root directory, or rename the `example.env` file in the root directory of the project to `.env`.
 3. Add your API key and CX id to the `.env` file as follows:
    ```
