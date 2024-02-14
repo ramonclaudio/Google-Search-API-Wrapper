@@ -81,14 +81,7 @@ Before using the Google Custom Search API, you need to create a Programmable Sea
 ```python
 from google_search_api import GoogleSearchAPI
 
-# Initialize the GoogleSearchAPI class
-request = GoogleSearchAPI()
-
-# Perform a text search and retrieve results
-response = request.response(method='text', max_results=5, query='Python')
-
-# Print the formatted search results
-print(response)
+print(GoogleSearchAPI().response(method='text', max_results=5, query='Python'))
 ```
 
 #### Image Search Example
@@ -96,14 +89,7 @@ print(response)
 ```python
 from google_search_api import GoogleSearchAPI
 
-# Initialize the GoogleSearchAPI class
-request = GoogleSearchAPI()
-
-# Perform an image search and retrieve results
-response = request.response(method='image', max_results=5, query='Nature')
-
-# Print the formatted search results
-print(response)
+print(GoogleSearchAPI().response(method='image', max_results=5, query='Nature'))
 ```
 
 ## Contributing
